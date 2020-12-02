@@ -1,0 +1,6 @@
+# MySQL
+db_host_ip: 10.151.12.61
+db_host_port: 3306
+login_username: root
+login_password: TransFer123!@#
+db_name: jenkins_cq_test

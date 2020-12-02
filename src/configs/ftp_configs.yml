@@ -1,0 +1,6 @@
+# FTP
+ftp_ip: 10.151.12.52
+ftp_port: 21
+ftp_username: zhangxiyuan
+ftp_password: 123456a?
+file_root_path: pkg/
